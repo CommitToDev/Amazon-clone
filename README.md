@@ -14,5 +14,6 @@ Html & Css Amazon Clone is my first project not moblie friendly or etc. i just u
 
 
 ## Screenshots
+![App Screenshot](https://github.com/itsabhishekshivale/Amazon-clone/blob/main/Screenshot%202023-11-03%20212457.png)
 
 
